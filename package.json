@@ -1,8 +1,8 @@
 {
-  "name": "medusa-starter-default",
+  "name": "medusa-payment-iyzico",
   "version": "0.0.1",
-  "description": "A starter for Medusa projects.",
-  "author": "Sebastian Rindom <skrindom@gmail.com>",
+  "description": "iyzico payment provider for Medusa.",
+  "author": "AppcentMobile",
   "license": "MIT",
   "scripts": {
     "seed": "medusa seed -f ./data/seed.json",
